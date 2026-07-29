@@ -37,3 +37,10 @@
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/euder-jr-montes/)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:euderjrmontes@gmail.com)
+
+
+## Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Euderjr/Euderjr/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
