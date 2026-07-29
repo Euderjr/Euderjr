@@ -27,20 +27,13 @@
 - Spring Boot
 - MySQL
 - Git & GitHub
-- HTML
-- CSS
+- HTML e CSS
+- Node.js
 - JavaScript
-
-
-  ## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=transparent&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=transparent&hide_border=true"/>
-</p>
+- And always looking to learn more.
 
 
 ## Contact
 
-- LinkedIn
-- Email
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/euder-jr-montes/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:euderjrmontes@gmail.com)
