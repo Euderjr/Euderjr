@@ -1,14 +1,8 @@
-<p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400">
-</p>
 
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Euder%20Junior&fontSize=45&fontColor=ffffff"/>
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Euderjr&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Euderjr&layout=compact&theme=tokyonight)
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,html,css,javascript,idea,vscode" />
