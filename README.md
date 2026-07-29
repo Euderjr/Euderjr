@@ -1,18 +1,46 @@
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=180&section=header&text=Euder%20Junior&fontSize=42&fontColor=ffffff"/>
+</p>
+
+<h2 align="center">Backend Developer | Java & Spring Boot</h2>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Euder%20Junior&fontSize=45&fontColor=ffffff"/>
+  Building backend applications with Java and continuously improving my software engineering skills.
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,idea,vscode,html,css,javascript" />
 </p>
 
 
+## About Me
+
+- 🎓 Computer Science student (ADS)
+- ☕ Focused on Java and Spring Boot
+- 📚 Currently studying REST APIs, SQL and Software Engineering
+- 🚀 Looking for my first opportunity as a Backend Developer
+
+
+## Tech Stack
+
+- Java
+- Spring Boot
+- MySQL
+- Git & GitHub
+- HTML
+- CSS
+- JavaScript
+
+
+  ## GitHub Stats
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,html,css,javascript,idea,vscode" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=transparent&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=transparent&hide_border=true"/>
 </p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+## Contact
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
+- LinkedIn
+- Email
